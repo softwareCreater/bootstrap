@@ -1,0 +1,43 @@
+*{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+html{
+    scroll-behavior: smooth;
+}
+.carousel-inner img{
+    width: 100%;
+    height: 60vh;
+    
+}
+
+/* form{
+    width: 85%;
+    background: rgb(233, 231, 231);
+    margin: 2rem auto;
+
+}
+.data{
+    width: 46rem;
+    margin: 1rem 0 0 1rem;
+    border-radius: 4px;
+    border: none;
+    padding: 0.4rem;
+}
+.text{
+    margin: 1rem 0 0 1rem;
+    padding: 0.4rem;
+    border-radius: 5px;
+    
+} */
+
+
+/* .btnn{
+    padding: 1px;
+    background: rgb(100, 100, 219);
+    color: white;
+    width: 8rem;
+    height: 2.6rem;
+    border-radius: 8px;
+    margin-left: 1rem;
+} */
